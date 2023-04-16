@@ -8,7 +8,6 @@
 4. What is the number of games, total sales & sales per game for each genre?
 5. What is the number of games, total sales & sales per game for each year?
 6. What is the number of games, total sales & sales per game by the releasing month?
-<br/>
 💡 With these questions answered, we will have a clear understanding of this constant growing industry. Let's get to it!
 <br/>
 👉 This dataset is provided by **Khalid** from [Kaggle.com](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games)
